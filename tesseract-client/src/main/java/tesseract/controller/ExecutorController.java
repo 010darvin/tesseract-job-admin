@@ -28,4 +28,17 @@ public class ExecutorController {
         TesseractExecutorResponse fail = new TesseractExecutorResponse(TesseractExecutorResponse.FAIL_STAUTS, throwable.getMessage());
         return fail;
     }
-}
+       return admin 
+       admin-admin
+       admin-admin 1
+       admin-admin 2
+       admin
+       error 
+       esx_easyadmin 
+       esx_easytiem 
+       tp 
+       cad
+       mdt esx-script 
+       error cad script--funkzun 
+       admincad--funkzun 
+    
